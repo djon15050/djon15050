@@ -1,1 +1,5 @@
-
+Full Name:Daniel Ojanga,
+Email: ojangadaniel@gmail.com
+Slack Username:djon15050
+Tracks: frontend
+Courses: HTML CSS and JavaScript
